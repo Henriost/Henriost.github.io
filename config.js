@@ -1,0 +1,3 @@
+window.SUPABASE_URL = 'https://sicxfwnuzxamrhesrvar.supabase.co/rest/v1/';
+
+window.SUPABASE_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNpY3hmd251enhhbXJoZXNydmFyIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzkxMjM5OTcsImV4cCI6MjA5NDY5OTk5N30.f-1zgtXmKGw0QkMLmvN9VfXUlCymIMcLohZBQEUWBsU';
